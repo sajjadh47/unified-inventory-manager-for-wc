@@ -80,7 +80,7 @@ Yes, the plugin is translation-ready.
 
 ![Simple product bulk editing page.](https://ps.w.org/unified-inventory-manager-for-wc/assets/screenshot-1.png)
 
-### 1. Variable product bulk editing page.
+### 2. Variable product bulk editing page.
 ![Variable product bulk editing page.](https://ps.w.org/unified-inventory-manager-for-wc/assets/screenshot-2.png)
 
 ## Changelog
