@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/unified-inventory-manager-for-wc/assets/banner-772x250.png)](https://wordpress.org/plugins/unified-inventory-manager-for-wc/)
 
 **Tags:** woocommerce, inventory, product variations, grouped stock, quantity multipliers \
-**Tested up to:** 6.8 \
+**Tested up to:** 6.9 \
 **Requires PHP:** 7.4
 
 Powerful inventory solution for WooCommerce with bulk stock updates.
@@ -84,6 +84,9 @@ Yes, the plugin is translation-ready.
 ![Variable product bulk editing page.](https://ps.w.org/unified-inventory-manager-for-wc/assets/screenshot-2.png)
 
 ## Changelog
+
+### 1.0.1
+- Compatibility checkup for latest wp version 6.9
 
 ### 1.0.0
 - Initial release.

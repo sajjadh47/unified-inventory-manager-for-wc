@@ -2,9 +2,9 @@
 Tags: woocommerce, inventory, product variations, grouped stock, quantity multipliers
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
-Tested up to: 6.8
+Tested up to: 6.9
 Requires at least: 6.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -83,8 +83,11 @@ Yes, the plugin is translation-ready.
 
 == Changelog ==
 
+= 1.0.1 =
+- Compatibility checkup for latest wp version 6.9
+
 = 1.0.0 =
-* Initial release.
+- Initial release.
 
 == Upgrade Notice ==
 
