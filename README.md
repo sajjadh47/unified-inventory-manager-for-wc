@@ -1,6 +1,6 @@
 # Unified Inventory Manager For WooCommerce
 
-[![Plugin Banner](https://ps.w.org/unified-inventory-manager-for-wc/assets/banner-772x250.png)](https://wordpress.org/plugins/unified-inventory-manager-for-wc/)
+[![Plugin Banner](https://ps.w.org/unified-inventory-manager-for-wc/assets/banner-1544x500.png)](https://wordpress.org/plugins/unified-inventory-manager-for-wc/)
 
 **Tags:** woocommerce, inventory, product variations, grouped stock, quantity multipliers \
 **Tested up to:** 6.9 \
