@@ -2,9 +2,9 @@
 Tags: woocommerce, inventory, product variations, grouped stock, quantity multipliers
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
-Tested up to: 6.9
+Tested up to: 7.0
 Requires at least: 6.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,6 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Powerful inventory solution for WooCommerce with bulk stock updates.
 
 == Description ==
-
 **Unified Inventory Manager For WooCommerce** is a powerful plugin designed for smart eCommerce store owners. Say goodbye to duplicate stock management and manual quantity tracking. Whether you're selling T-shirts in multiple sizes or bundled product kits, this plugin gives you centralized control over your WooCommerce inventory.
 
 **Why Use Unified Inventory Manager For WooCommerce?**
@@ -52,7 +51,6 @@ Inventory management in WooCommerce can be time-consuming and prone to error —
 Supercharge your WooCommerce store with **Unified Inventory Manager For WooCommerce** — the smarter, faster way to manage product stock. Get started today and take control of your inventory like a pro!
 
 == Installation ==
-
 1. Upload the plugin to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Configure your inventory settings via **Products > Inventory Manager**.
@@ -82,13 +80,12 @@ Yes, the plugin is translation-ready.
 2. Variable product bulk editing page.
 
 == Changelog ==
-
+= 1.0.2 =
+- Compatibility checkup for latest wp version 7.0
 = 1.0.1 =
 - Compatibility checkup for latest wp version 6.9
-
 = 1.0.0 =
 - Initial release.
 
 == Upgrade Notice ==
-
 Always try to keep your plugin update so that you can get the improved and additional features added to this plugin up to date.

@@ -13,7 +13,7 @@
  * Plugin Name:          Unified Inventory Manager For WooCommerce
  * Plugin URI:           https://wordpress.org/plugins/unified-inventory-manager-for-wc/
  * Description:          Unified Inventory Manager For WooCommerce is a powerful inventory management solution that allows you to manage stock for products ensuring seamless tracking and management.
- * Version:              1.0.1
+ * Version:              1.0.2
  * Requires at least:    6.1
  * Requires PHP:         7.4
  * Author:               Sajjad Hossain Sagor
@@ -37,7 +37,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @since    1.0.0
  */
-define( 'UIMFWC_UNIFIED_INVENTORY_MANAGER_FOR_WC_PLUGIN_VERSION', '1.0.1' );
+define( 'UIMFWC_UNIFIED_INVENTORY_MANAGER_FOR_WC_PLUGIN_VERSION', '1.0.2' );
 
 /**
  * The absolute path to the main plugin file.
