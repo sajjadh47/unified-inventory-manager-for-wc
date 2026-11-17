@@ -2,9 +2,9 @@
 Tags: woocommerce, inventory, product variations, grouped stock, quantity multipliers
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
-Tested up to: 7.0
+Tested up to: 7.1
 Requires at least: 6.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -80,6 +80,8 @@ Yes, the plugin is translation-ready.
 2. Variable product bulk editing page.
 
 == Changelog ==
+= 1.0.3 =
+- Compatibility checkup for latest wp version 7.1
 = 1.0.2 =
 - Compatibility checkup for latest wp version 7.0
 = 1.0.1 =
